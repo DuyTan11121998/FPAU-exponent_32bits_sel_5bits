@@ -1,0 +1,157 @@
+C:/Users/Tan/Desktop/final/bonus/ex/clb.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/clb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clb4
+-- Compiling module clb3
+-- Compiling module clb2
+
+Top level modules:
+	clb4
+	clb3
+	clb2
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/normalize.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/normalize.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module normalize
+
+Top level modules:
+	normalize
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/element.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/element.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module element_n
+-- Compiling module element1
+-- Compiling module element2
+-- Compiling module element4
+-- Compiling module element8
+-- Compiling module element16
+
+Top level modules:
+	element_n
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/ex_tb.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/ex_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ex_tb
+
+Top level modules:
+	ex_tb
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/mult.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/mult.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult24
+-- Compiling module mult12
+-- Compiling module mult6
+-- Compiling module mult3
+-- Compiling module FA
+
+Top level modules:
+	mult24
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/mux.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux24
+-- Compiling module mux8
+-- Compiling module mux1
+
+Top level modules:
+	mux24
+	mux8
+	mux1
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/resultS.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/resultS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module resultS_ex
+-- Compiling module resultS_mult
+
+Top level modules:
+	resultS_ex
+	resultS_mult
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/check_input.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/check_input.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module checkspecial
+
+Top level modules:
+	checkspecial
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/multiplier.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/adder.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder5
+-- Compiling module adder6
+-- Compiling module adder8
+-- Compiling module adder9
+-- Compiling module adder10
+-- Compiling module adder12
+-- Compiling module adder24
+-- Compiling module adder25
+-- Compiling module adder26
+
+Top level modules:
+	adder5
+	adder6
+	adder8
+	adder9
+	adder10
+	adder12
+	adder24
+	adder25
+	adder26
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/shiftleft.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/shiftleft.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftleft
+-- Compiling module shiftleftby1
+-- Compiling module shiftleftby2
+-- Compiling module shiftleftby4
+-- Compiling module shiftleftby8
+-- Compiling module shiftleftby16
+
+Top level modules:
+	shiftleft
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/findbit1.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/findbit1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module findbit1
+
+Top level modules:
+	findbit1
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/shiftright.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/shiftright.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftright24
+-- Compiling module shiftrightby1
+-- Compiling module shiftrightby2
+-- Compiling module shiftrightby4
+-- Compiling module shiftrightby8
+-- Compiling module shiftrightby16
+
+Top level modules:
+	shiftright24
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/ex.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/ex.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ex
+
+Top level modules:
+	ex
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/ex/tc.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/ex/tc.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tc25
+-- Compiling module tc10
+-- Compiling module tc9
+-- Compiling module tc8
+
+Top level modules:
+	tc25
+	tc10
+	tc9
+	tc8
+
+} {} {}}
